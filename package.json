@@ -1,0 +1,16 @@
+{
+  "name": "@beardedtim/koa-renderer",
+  "version": "0.0.1",
+  "main": "index.js",
+  "private": false,
+  "repository": "git@github.com:beardedtim/koa-renderer.git",
+  "author": "Tim Roberts <timroberts@fastmail.org>",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^7.0.32",
+    "postcss-html": "^0.36.0",
+    "postcss-preset-env": "^6.7.0",
+    "postcss-syntax": "^0.36.2",
+    "ramda": "^0.27.0"
+  }
+}
